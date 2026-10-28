@@ -19,8 +19,8 @@ These are small, self-contained scripts. The ML ones establish a baseline (train
 
 Scripts expect data files in the repo root (not included):
 
-- `train_dataset.csv` — for the ML scripts
-- Titanic CSV — for `pandas_titanic.py` (Titanic passenger dataset)
+- `train_dataset.csv`: for the ML scripts
+- Titanic CSV: for `pandas_titanic.py` (Titanic passenger dataset)
 
 ## Built with
 
