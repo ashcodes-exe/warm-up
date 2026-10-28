@@ -10,6 +10,12 @@ Short practice scripts for ML and Python basics.
 - **plotting_basics.py**: box plots, violin plots & histograms with matplotlib
 - **multi_panel_plots.py**: histogram, scatter, error bar & box plot combined into one figure
 - **pandas_titanic.py**: pandas exploration of the Titanic dataset: indexing, filtering, grouping, missing values
+- **logistic_regression.py**: Logistic Regression baseline (linear boundary)
+- **decision_tree.py**: Decision Tree baseline (single tree)
+- **random_forest.py**: Random Forest baseline (bagged trees)
+- **adaboost_warmup.py**: AdaBoost baseline (boosted stumps)
+- **xgboost_warmup.py**: XGBoost baseline (external lib)
+- **catboost_warmup.py**: CatBoost baseline (external lib)
 
 ## The point
 
